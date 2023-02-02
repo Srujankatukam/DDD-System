@@ -26,7 +26,7 @@ Arduino==1.8.3
 - import argparse
 - import imutils
 - import time
-- import dlib
+- import [dlib](https://www.geeksforgeeks.org/how-to-install-dlib-library-for-python-in-windows-10/)
 - import math
 - import serial
 - import cv2
@@ -34,6 +34,9 @@ Arduino==1.8.3
 
 ### Description 📌
 A computer vision system that can automatically detect driver drowsiness by tracking closing of eyes and yawing in a real-time video stream and then alert if the driver appears to be drowsy.
+
+### Instructions
+Load and Compile Audrino Code into ESP32 with necessary connections and Run the Driver Drowsiness Detection.py in DDDS.
 
 ### Results
 <li><a href="https://drive.google.com/file/d/1eYjNAdP7jm2eX4en5nzA75-nnUo5MywF/view?usp=share_link">Experimental Video</a></li>
