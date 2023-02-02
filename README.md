@@ -23,14 +23,14 @@ Arduino==1.8.3
 
 ### Dependencies 
 
-- import argparse
-- import imutils
-- import time
+- import [argparse](https://pypi.org/project/argparse/)
+- import [imutils](https://pypi.org/project/imutils/)
+- import [time](https://www.geeksforgeeks.org/python-time-module/)
 - import [dlib](https://www.geeksforgeeks.org/how-to-install-dlib-library-for-python-in-windows-10/)
-- import math
-- import serial
-- import cv2
-- import numpy as np
+- import [math](https://www.javatpoint.com/python-math-module)
+- import [serial](https://pypi.org/project/pyserial/)
+- import [cv2](https://www.geeksforgeeks.org/how-to-install-opencv-for-python-in-windows/)
+- import [numpy](https://pypi.org/project/numpy/)
 
 ### Description 📌
 A computer vision system that can automatically detect driver drowsiness by tracking closing of eyes and yawing in a real-time video stream and then alert if the driver appears to be drowsy.
