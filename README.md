@@ -48,3 +48,5 @@ Load and Compile Audrino Code into ESP32 with necessary connections and Run the 
 <li><a href="https://www.linkedin.com/in/katukam-srujan/">Srujan Katukam</a></li>
 <li><a href="https://www.linkedin.com/in/sunell-dutt-abburi-39211a229/">Sunell Dutt Abburi</a></li>
 <li><a href="https://www.linkedin.com/in/sai-vinay-potluri-b2707a215/">Sai Vinay Potluri</a></li>
+<li><a href="http://linkedin.com/in/mohith-peddineni-113618241">Mohith Peddineni</a></li>
+
