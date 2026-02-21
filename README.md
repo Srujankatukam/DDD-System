@@ -1,6 +1,6 @@
 # DDD-System
 # Driver Fatigue Detection | OpenCV 
-  
+   
 # Problem Statement
 India ranked first in road deaths across 199 countries reported in the World Road Statistics, 2018. Every year numerous accidents occur mainly due to drivers being preoccupied or distracted by something. They do not concentrate completely on the road which causes them to lose control of the vehicle. The aim of the project is to develop a real-time system that helps in preventing accidents caused due to inattentiveness of drivers. This project can detect user's eyes and mouth and alert when the user is feeling drowsy using video processing techniques.
  
